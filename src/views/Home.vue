@@ -6,7 +6,7 @@
         <h1>PangUI</h1>
         <h2>基于vue3.0的UI框架</h2>
         <div class="actions">
-          <a>Github</a>
+          <a href="https://github.com/A-aronYang/pangui">Github</a>
           <router-link to="/doc/intro">开始</router-link>
         </div>
       </div>
